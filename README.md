@@ -1,2 +1,2 @@
 # magento2-blog-module
-Developing Magento2 Blog Modeule
+Developing Magento2 Blog Modeule trail change.
